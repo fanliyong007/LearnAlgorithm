@@ -39,7 +39,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="385" />
     <option name="width" value="1945" />
     <option name="height" value="1060" />
@@ -167,7 +167,7 @@
     <option name="totallyTimeSpent" value="2645000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1294" height="704" extended-state="6" />
+    <frame x="-7" y="-7" width="1294" height="704" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
