@@ -1,22 +1,22 @@
-
-import java.util.Queue;
-
-public class BagQueueStack
-{
-    public static int[] readInts(String name)
-    {
-        In in=new In(name);
-        Queue<Integer> q=new Queue<Integer>();
-        while(!in.isEmpty())
-            q.enqueue(in.readInt());
-        int N=q.size();
-        int[] a=new int[N];
-        for(int i=0;i<N;i++)
-            a[i]=q.dequeue;
-        return a;
-    }
-
-}
+//
+//import java.util.Queue;
+//
+//public class BagQueueStack
+//{
+//    public static int[] readInts(String name)
+//    {
+//        In in=new In(name);
+//        Queue<Integer> q=new Queue<Integer>();
+//        while(!in.isEmpty())
+//            q.enqueue(in.readInt());
+//        int N=q.size();
+//        int[] a=new int[N];
+//        for(int i=0;i<N;i++)
+//            a[i]=q.dequeue;
+//        return a;
+//    }
+//
+//}
 
 //
 //Queue()//创建空队列
